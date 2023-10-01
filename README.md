@@ -13,7 +13,6 @@
 </div>
 
 #### To reach me 📮
-- [My Instagram]
-(https://instagram.com/lua.d3v)
+- [My Instagram](https://instagram.com/lua.d3v)
 
 <div align="center">
