@@ -6,9 +6,8 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">I'm Emir<br><br>- 🔭 I’m working as Game Development<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I deal with animation</p>
+<p align="left">- 🔭 I’m working as Game Development<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I deal with animation</p>
 
 ###
 
