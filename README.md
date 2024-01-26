@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 
 <p align="left">- 🔭 I’m working as Game Development<br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I deal with animation</p>
